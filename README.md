@@ -16,7 +16,8 @@
 
 This project focuses on data visualization, using an interactive Excel dashboard to analyze Adidas sales data. The dashboard includes multiple visualizations and slicers for filtering by years, products, and regions, enabling dynamic exploration of sales trends and performance. Emphasizing only the data visualization aspect, the project aims to present key insights in a clear and accessible manner. The dataset was already clean, so the analysis directly focused on visual representation without requiring data cleaning.
 
-![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard.png](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Sales%20Dashboard.png)
+
 ### Data Sources
 
 The Adidas sales data used in this project was sourced from a video tutorial. You can download the dataset from [this link](https://view.flodesk.com/pages/62e6c1afc4d48aec3664b8e4) for your own analysis and exploration. [Alternative link](https://www.youtube.com/watch?v=5eLtjO2Hfs0)
@@ -45,19 +46,38 @@ An interactive dashboard was created in Excel to provide a quick summary of all 
 ### Analysis Insights:
 
 - Total Sales Overview:
+  
   - The horizontal bar chart displays total sales by row labels, highlighting the highest-performing products or categories.
+    
+    ![Total Sales](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Total%20Sales.png)
+
 - Sales Method Comparison:
+
   - The donut chart illustrates the distribution of sales between online and offline channels, providing insights into customer preferences and sales strategies.
+
+    ![Sales Method](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Sales%20Method.png)
+
 - Regional Sales Distribution:
+
   - The map chart visualizes sales across different regions, allowing for geographic trend analysis and identification of key markets.
+
+    ![Sales Region](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Sales%20Region.png)
+
 - Sales Trends Over Time:
+
   - The line graph reveals trends in sales over the years and months, showcasing seasonality and overall growth patterns.
+
+    ![Sales Trend](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Sales%20Trend.png)
+
 - Dynamic Filtering:
+
   - The use of slicers for years, products, and regions enables users to interactively filter the data, making it easier to explore specific aspects of the sales performance.
+
+    ![Slicer Settings](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Slicer%20Settings.png)
 
 ### Documentation
 
-Check out the uploaded PDF for a visual representation of my project:
+Check out the uploaded PDF for a visual representation of my project: [Here](https://github.com/sumanju333/sales-insights-dashboard/blob/main/Adidas%20Sales%20Data%20Analysis.pdf)
 
 ### References
 
