@@ -29,5 +29,25 @@ In the Initial Data Preparation Phase, following tasks were performed:
 
 An interactive dashboard was created in Excel to provide a quick summary of all the insights discovered during the analysis, allowing for easy exploration and interpretation of key findings.
 
+### Analysis Insights:
+
+- Total Sales Overview:
+  - The horizontal bar chart displays total sales by row labels, highlighting the highest-performing products or categories.
+- Sales Method Comparison:
+  - The donut chart illustrates the distribution of sales between online and offline channels, providing insights into customer preferences and sales strategies.
+- Regional Sales Distribution:
+  - The map chart visualizes sales across different regions, allowing for geographic trend analysis and identification of key markets.
+- Sales Trends Over Time:
+  - The line graph reveals trends in sales over the years and months, showcasing seasonality and overall growth patterns.
+- Dynamic Filtering:
+  - The use of slicers for years, products, and regions enables users to interactively filter the data, making it easier to explore specific aspects of the sales performance.
+
+### Documentation
+
+Check out the uploaded PDF for a visual representation of my project:
+
+### References
+
+This project was inspired by [Addidas Sales Dashboard video](https://www.youtube.com/watch?v=5eLtjO2Hfs0) . Check out the video for a more detailed explanation of the project and its methodology.
 
 
