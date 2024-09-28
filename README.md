@@ -1,9 +1,22 @@
 # Adidas Sales Insights: Excel Dashboard
 
+## Table Of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
+- [Analysis Insights](#analysis-insights)
+- [Documentation](#documentation)
+- [References](#references)
+  
 ### Project Overview
 
 This project focuses on data visualization, using an interactive Excel dashboard to analyze Adidas sales data. The dashboard includes multiple visualizations and slicers for filtering by years, products, and regions, enabling dynamic exploration of sales trends and performance. Emphasizing only the data visualization aspect, the project aims to present key insights in a clear and accessible manner. The dataset was already clean, so the analysis directly focused on visual representation without requiring data cleaning.
 
+![Sales Dashboard](sales-dashboard.png)
 ### Data Sources
 
 The Adidas sales data used in this project was sourced from a video tutorial. You can download the dataset from [this link](https://view.flodesk.com/pages/62e6c1afc4d48aec3664b8e4) for your own analysis and exploration. [Alternative link](https://www.youtube.com/watch?v=5eLtjO2Hfs0)
